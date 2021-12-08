@@ -1,0 +1,2 @@
+This is a simple lottery dapp with a barebone frontend, which is a good start to learn developing dapps.
+Be aware that the randomness is based on the hashing of blocks info, not from oracle.
